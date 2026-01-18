@@ -29,4 +29,4 @@ It’s designed to be **beginner-friendly** and can be extended later using **Re
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/Dev-Sihle-Mahlangu/Quiz-game
