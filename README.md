@@ -1,4 +1,4 @@
-# My First Quiz Project
+# My First Project
 
 A simple **interactive quiz game** built with **HTML, CSS, and JavaScript**. This project demonstrates my skills in front-end web development, DOM manipulation, and basic game logic.  
 
